@@ -12,7 +12,7 @@
 - This script aims to be versatile, but because of youtubes changing infrastructure, some linux distros "stable release" **may fail to have the latest version of yt-dlp available which can cause the script to fail**.
 
 ## Prequisites:
-###**To run this script**, you need to have the following programs installed on your linux machine
+### **To run this script**, you need to have the following programs installed on your linux machine
 - **yt-dlp**
 - **curl**
 
